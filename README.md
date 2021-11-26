@@ -3,12 +3,14 @@ Bu repo [Kodluyoruz](https://kodluyoruz.org) Front-End Eğitiminde oluşturduğu
 ![Image](https://github.com/Kodluyoruz/taskforce/blob/main/git/odev1/figures/github.png?raw=true)
 ## Installation
 Öncalikle projeyi clonelayın. (Buraya sizin reponuzdan aldığınız link gelecek)
-```https://github.com/neptunel/kodluyoruzilkrepo.git
+```
+    https://github.com/neptunel/kodluyoruzilkrepo.git
 ```
 ## Usage 
 Projeyi klonladıktan sonra Visual Studio Code programında açınız.
 Linux için: 
-```cd kodluyoruzilkrepo
+```
+   cd kodluyoruzilkrepo
    code .
 ```
 ## Contributing 
